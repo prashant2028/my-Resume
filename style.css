@@ -1,0 +1,14 @@
+hr{
+    width:15%;
+    background-color: skyblue;
+    border-top:9px dotted green;
+    border-bottom:none;
+}
+
+body{
+    background-color:skyblue;
+}
+
+table,td,th{
+    border-collapse: collapse;
+}
